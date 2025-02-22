@@ -12,12 +12,8 @@
     "license": "ISC",
     "dependencies": {
         "@slack/bolt": "4.2.0",
-        "@slack/rtm-api": "7.0.2",
-        "@slack/web-api":"7.8.0" ,
-        "axios": "1.7.9",
         "dotenv": "16.4.7",
         "express":"^5.0.0",
-        "ems": "1.6.1",
-        "ngrok": "5.0.0-beta.2"
+        "ems": "1.6.1"
     }
 }
